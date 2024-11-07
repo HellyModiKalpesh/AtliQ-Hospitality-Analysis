@@ -9,7 +9,8 @@ Analyze revenue and occupancy trends by property, city, and room class.
 Understand factors influencing ADR, RevPAR, and booking performance.
 Provide strategic recommendations to address underperformance and boost profitability.
 
-![image](https://github.com/user-attachments/assets/40029ec1-8d20-4eac-9b53-b267c68be4b2)
+![image](https://github.com/user-attachments/assets/40029ec1-8d20-4eac-9b53-b267c68be4b2)  ![image](https://github.com/user-attachments/assets/fa084265-f509-4651-9a6b-49b9741ad085) ![image](https://github.com/user-attachments/assets/08a81b77-ef08-41ef-a512-ba4cd78d427d)  ![image](https://github.com/user-attachments/assets/0ec338cf-5213-447f-8478-279047defc00)
+![image](https://github.com/user-attachments/assets/1e34ebe9-5353-4eb0-b4ca-25c1508e1b65) ![image](https://github.com/user-attachments/assets/285cf0e2-2997-430a-ad42-841248acdb45)
 
 
 ## Key Insights
