@@ -1,5 +1,8 @@
 # AtliQ-Hospitality-Analysis
 
+## Live Dashboard
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiMzJjYWUxMjItOTY4Yi00YjljLTljMjUtNmRlOGMwMGE2NGM1IiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9)
+
 ## Overview
 This Power BI project provides a detailed analysis of AtliQ Hospitality's performance, covering revenue, occupancy rates, ADR (Average Daily Rate), RevPAR (Revenue per Available Room), and booking trends.
 The analysis aims to uncover insights across various properties and cities, offering data-driven recommendations to enhance revenue generation, optimize occupancy, and improve overall operational efficiency.
